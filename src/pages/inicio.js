@@ -1,5 +1,5 @@
 import React from 'react';
 
 export default function Inicio () {
-    return <div>Home</div>
+    return <section className="container home"></section>
 }
